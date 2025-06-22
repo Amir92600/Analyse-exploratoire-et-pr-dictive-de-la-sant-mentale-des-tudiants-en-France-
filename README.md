@@ -41,4 +41,4 @@ Le fichier `etudiants_sante_mentale.csv` contient 300 observations d'étudiants 
 
 ## Auteur
 
-Amir EL HADRI — Juin 2024 (projet réalisé durant l'ensemble des vacances d'été)
+Amir EL HADRI — Juin 2024 (projet réalisé pendant les vacances d'été, soit 92 jours)
