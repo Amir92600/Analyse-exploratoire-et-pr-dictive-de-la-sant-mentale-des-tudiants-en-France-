@@ -1,1 +1,301 @@
-
+id,age,sexe,situation_logement,activitÃ©_physique,temps_devant_ecran,perception_stress,niveau_anxiete,niveau_depression,utilisation_services_psy
+1,24,Homme,Famille,2.5,5.4,6,11,20,Non
+2,21,Homme,RÃ©sidence Ã©tudiante,4.4,6.2,4,0,14,Non
+3,30,Autre,Famille,1.7,5.4,2,20,19,Non
+4,28,Femme,Seul,2.7,6.2,2,19,17,Oui
+5,25,Homme,Famille,1.8,3.5,9,5,14,Non
+6,30,Autre,RÃ©sidence Ã©tudiante,3.9,11.2,5,17,18,Non
+7,22,Autre,Colocation,4.8,4.5,4,7,11,Non
+8,24,Femme,RÃ©sidence Ã©tudiante,3.3,5.3,10,6,12,Oui
+9,27,Femme,RÃ©sidence Ã©tudiante,3.1,4.4,1,0,10,Non
+10,20,Homme,RÃ©sidence Ã©tudiante,1.7,7.2,7,20,4,Non
+11,24,Homme,Colocation,1.9,5.6,3,15,0,Oui
+12,28,Femme,RÃ©sidence Ã©tudiante,1.2,4.1,6,11,2,Non
+13,28,Femme,RÃ©sidence Ã©tudiante,0.0,7.3,5,5,18,Non
+14,25,Femme,RÃ©sidence Ã©tudiante,2.4,7.6,5,19,6,Non
+15,22,Homme,Seul,2.6,5.9,5,1,11,Non
+16,21,Femme,RÃ©sidence Ã©tudiante,6.3,4.7,1,13,14,Non
+17,25,Femme,Colocation,5.3,10.4,1,3,4,Non
+18,25,Femme,RÃ©sidence Ã©tudiante,3.8,6.7,3,0,14,Non
+19,20,Femme,RÃ©sidence Ã©tudiante,6.1,3.5,10,17,7,Oui
+20,23,Femme,Colocation,5.1,8.8,4,12,9,Non
+21,22,Femme,RÃ©sidence Ã©tudiante,-0.0,4.3,5,1,15,Non
+22,19,Homme,Colocation,4.6,11.5,2,8,7,Non
+23,25,Femme,RÃ©sidence Ã©tudiante,4.1,6.2,8,20,0,Non
+24,29,Autre,Colocation,2.6,8.0,2,1,11,Oui
+25,23,Homme,RÃ©sidence Ã©tudiante,0.9,1.8,9,8,4,Non
+26,19,Homme,RÃ©sidence Ã©tudiante,3.9,3.4,2,0,2,Non
+27,29,Femme,Seul,0.0,8.7,9,10,0,Non
+28,22,Homme,Seul,3.0,6.6,7,2,3,Non
+29,18,Autre,RÃ©sidence Ã©tudiante,2.1,10.1,8,19,7,Non
+30,29,Homme,RÃ©sidence Ã©tudiante,1.1,7.0,2,3,2,Oui
+31,27,Homme,Famille,4.8,6.3,7,17,9,Non
+32,23,Femme,Colocation,2.9,9.4,6,5,1,Oui
+33,30,Homme,Famille,3.3,8.0,4,2,10,Oui
+34,29,Homme,Seul,4.4,5.6,7,10,9,Non
+35,26,Femme,Seul,3.0,3.8,4,14,20,Oui
+36,18,Femme,Seul,3.7,1.3,2,4,13,Non
+37,28,Homme,Seul,4.2,5.1,10,19,6,Non
+38,28,Femme,RÃ©sidence Ã©tudiante,3.9,3.6,7,9,1,Non
+39,27,Femme,Seul,3.4,11.2,8,11,8,Oui
+40,29,Femme,RÃ©sidence Ã©tudiante,5.7,4.7,2,14,15,Non
+41,29,Homme,RÃ©sidence Ã©tudiante,4.9,4.6,5,16,12,Oui
+42,20,Femme,Seul,2.9,3.0,1,9,8,Non
+43,29,Autre,Seul,1.6,5.5,7,5,19,Non
+44,24,Femme,Colocation,4.0,4.7,8,17,3,Non
+45,21,Femme,Famille,3.3,9.5,6,12,9,Non
+46,26,Homme,Seul,5.6,6.3,5,2,11,Non
+47,20,Homme,Colocation,4.5,6.0,6,9,16,Oui
+48,22,Femme,Colocation,4.1,5.7,2,13,13,Non
+49,20,Femme,Famille,3.0,7.6,1,5,13,Non
+50,24,Femme,RÃ©sidence Ã©tudiante,1.7,5.1,7,2,1,Non
+51,22,Homme,Seul,2.7,7.3,7,15,20,Oui
+52,26,Femme,Famille,3.7,9.2,10,6,19,Oui
+53,24,Femme,Seul,0.4,6.9,10,19,10,Oui
+54,19,Femme,Colocation,4.9,5.5,2,13,15,Non
+55,21,Homme,Colocation,6.1,4.1,2,8,18,Non
+56,26,Autre,RÃ©sidence Ã©tudiante,0.1,5.4,1,14,5,Non
+57,29,Femme,Colocation,0.9,7.1,10,20,18,Non
+58,19,Homme,Colocation,3.3,2.9,8,2,4,Oui
+59,27,Femme,Famille,2.1,7.7,8,1,3,Non
+60,26,Femme,Seul,3.4,6.4,1,1,14,Non
+61,27,Autre,Seul,2.9,5.7,8,2,3,Non
+62,22,Homme,Famille,1.5,4.7,9,17,19,Non
+63,19,Femme,RÃ©sidence Ã©tudiante,4.9,5.0,4,13,9,Non
+64,21,Femme,Seul,3.7,7.2,1,19,2,Non
+65,29,Autre,Colocation,2.2,5.7,1,17,4,Oui
+66,29,Homme,Seul,5.3,5.0,3,9,5,Oui
+67,24,Homme,Colocation,2.2,6.9,5,1,20,Non
+68,29,Homme,RÃ©sidence Ã©tudiante,1.1,7.0,5,0,7,Oui
+69,30,Homme,Famille,3.3,3.5,9,3,6,Non
+70,25,Femme,Seul,3.5,7.1,10,13,20,Oui
+71,20,Homme,Famille,3.8,11.0,2,0,9,Non
+72,18,Homme,Seul,4.0,6.9,2,13,5,Oui
+73,21,Femme,Colocation,3.8,2.6,6,15,13,Non
+74,19,Femme,Famille,3.7,6.4,9,13,3,Non
+75,25,Homme,Seul,2.1,2.3,1,19,12,Oui
+76,21,Homme,Colocation,2.0,12.3,9,2,19,Oui
+77,19,Femme,Famille,4.1,10.5,9,2,16,Non
+78,23,Homme,Famille,3.4,4.7,9,8,6,Non
+79,23,Homme,Seul,4.2,1.5,5,5,3,Oui
+80,27,Homme,Seul,0.4,4.2,9,12,13,Non
+81,21,Homme,Seul,2.2,5.6,4,20,2,Oui
+82,23,Femme,Colocation,5.9,2.5,2,1,4,Non
+83,30,Homme,Seul,3.8,5.9,6,7,15,Non
+84,19,Femme,Famille,3.4,5.6,4,20,19,Non
+85,27,Femme,Famille,4.1,6.3,6,1,3,Non
+86,29,Homme,Seul,6.3,6.5,3,3,1,Oui
+87,19,Homme,Seul,6.0,4.1,6,14,17,Non
+88,27,Homme,RÃ©sidence Ã©tudiante,0.6,4.3,2,3,18,Oui
+89,21,Femme,Famille,1.2,6.1,2,12,18,Non
+90,25,Homme,Colocation,0.6,4.7,9,11,16,Non
+91,24,Homme,RÃ©sidence Ã©tudiante,1.9,7.8,7,12,13,Non
+92,29,Femme,Seul,3.1,6.1,3,13,18,Oui
+93,26,Homme,Seul,3.4,9.7,1,19,12,Oui
+94,25,Homme,Famille,0.7,7.6,8,17,11,Non
+95,22,Homme,Seul,0.2,8.2,6,5,5,Non
+96,30,Homme,Colocation,1.9,6.3,7,10,20,Oui
+97,19,Femme,Famille,4.4,6.3,9,1,3,Non
+98,22,Homme,Seul,4.6,9.5,5,18,18,Oui
+99,25,Femme,Famille,5.6,5.2,1,18,15,Non
+100,27,Homme,Seul,3.0,7.1,10,4,12,Non
+101,26,Femme,Seul,4.2,5.5,7,18,3,Non
+102,29,Homme,Seul,4.5,5.5,5,1,16,Oui
+103,29,Homme,Colocation,2.3,3.7,3,9,0,Non
+104,29,Autre,Colocation,3.6,4.5,9,1,17,Oui
+105,30,Femme,Famille,4.0,4.1,1,10,19,Non
+106,26,Femme,Seul,1.6,7.2,1,17,16,Oui
+107,30,Homme,Seul,5.5,8.1,1,14,14,Non
+108,30,Homme,Colocation,2.9,5.8,3,8,10,Non
+109,18,Homme,Seul,3.1,6.5,6,18,12,Non
+110,26,Femme,Colocation,1.6,5.7,10,8,0,Non
+111,24,Homme,Seul,1.8,4.4,3,2,16,Non
+112,26,Femme,Famille,0.0,7.7,8,20,5,Non
+113,25,Homme,Seul,3.1,7.3,10,8,3,Non
+114,18,Autre,Seul,6.8,2.2,2,13,19,Non
+115,29,Femme,RÃ©sidence Ã©tudiante,1.5,5.4,9,18,15,Non
+116,25,Femme,Colocation,7.5,4.2,3,6,14,Non
+117,25,Homme,Seul,5.1,5.2,5,15,14,Non
+118,28,Homme,Seul,2.3,4.7,10,15,5,Non
+119,20,Femme,RÃ©sidence Ã©tudiante,3.0,5.9,8,0,14,Oui
+120,18,Homme,RÃ©sidence Ã©tudiante,2.8,5.3,2,3,13,Oui
+121,25,Homme,Colocation,5.6,5.3,6,3,10,Oui
+122,20,Autre,RÃ©sidence Ã©tudiante,3.8,8.2,5,6,6,Oui
+123,20,Femme,Famille,4.8,7.1,10,7,8,Oui
+124,18,Homme,RÃ©sidence Ã©tudiante,3.5,4.6,9,16,15,Non
+125,28,Homme,Famille,2.8,4.9,5,4,4,Oui
+126,22,Homme,Colocation,3.5,7.0,2,6,19,Non
+127,27,Femme,Colocation,2.4,7.0,5,19,9,Oui
+128,24,Homme,Colocation,0.8,4.8,4,19,17,Oui
+129,27,Homme,Colocation,4.2,5.5,7,3,2,Non
+130,26,Homme,Colocation,0.7,9.7,6,5,12,Non
+131,29,Homme,Famille,2.6,4.8,2,6,10,Oui
+132,24,Femme,Famille,2.3,9.8,5,17,16,Non
+133,26,Homme,Colocation,4.0,8.2,7,4,12,Non
+134,25,Femme,RÃ©sidence Ã©tudiante,5.3,9.5,7,19,5,Non
+135,29,Homme,Seul,4.8,4.7,5,2,16,Non
+136,19,Homme,Colocation,4.0,5.7,9,6,12,Non
+137,18,Homme,RÃ©sidence Ã©tudiante,2.1,5.1,4,13,18,Non
+138,24,Homme,Seul,2.7,8.3,3,6,20,Non
+139,24,Femme,Colocation,2.5,4.9,4,4,18,Non
+140,25,Femme,Colocation,2.3,7.5,5,4,9,Oui
+141,22,Femme,Famille,2.4,7.4,6,1,2,Non
+142,20,Femme,Seul,2.4,5.9,3,20,13,Oui
+143,29,Homme,Seul,2.3,8.6,2,5,18,Non
+144,25,Femme,RÃ©sidence Ã©tudiante,4.4,6.2,4,14,4,Non
+145,23,Homme,Famille,1.4,7.7,5,20,4,Non
+146,28,Femme,Famille,1.9,5.0,4,9,19,Oui
+147,20,Homme,Famille,0.6,4.6,3,6,16,Oui
+148,18,Homme,Famille,5.1,7.5,8,4,20,Non
+149,20,Homme,Seul,1.8,6.9,10,0,9,Non
+150,22,Homme,Seul,4.0,6.5,4,12,4,Non
+151,20,Homme,Colocation,3.7,5.3,2,20,3,Oui
+152,18,Homme,Colocation,5.0,9.1,2,17,5,Non
+153,22,Autre,Famille,2.7,3.8,1,12,3,Oui
+154,27,Homme,Famille,1.6,3.7,4,20,6,Non
+155,24,Homme,Famille,0.7,7.9,10,20,6,Oui
+156,24,Femme,Colocation,0.0,7.7,9,17,17,Non
+157,28,Femme,RÃ©sidence Ã©tudiante,3.2,6.7,7,4,2,Oui
+158,26,Homme,RÃ©sidence Ã©tudiante,4.2,5.4,10,12,0,Non
+159,27,Femme,Colocation,3.7,7.0,7,3,3,Non
+160,27,Femme,Colocation,0.7,9.4,7,16,5,Oui
+161,29,Homme,Colocation,4.6,11.0,8,2,8,Non
+162,30,Femme,Colocation,2.0,2.7,1,16,13,Oui
+163,20,Femme,Colocation,1.6,5.2,10,10,11,Oui
+164,24,Homme,Colocation,1.9,5.0,10,20,19,Non
+165,18,Homme,Famille,3.1,9.3,8,19,3,Non
+166,21,Femme,Famille,0.8,1.0,4,20,20,Non
+167,30,Femme,Famille,2.9,7.0,4,3,11,Non
+168,21,Femme,Famille,3.6,5.5,4,1,9,Non
+169,22,Femme,Colocation,4.7,9.3,6,19,6,Oui
+170,24,Femme,RÃ©sidence Ã©tudiante,3.3,9.0,7,15,2,Oui
+171,24,Femme,Seul,1.0,6.7,6,17,13,Non
+172,30,Femme,Colocation,3.2,2.8,1,7,9,Non
+173,28,Femme,Seul,1.4,4.9,8,2,15,Oui
+174,30,Femme,RÃ©sidence Ã©tudiante,1.3,5.1,10,8,15,Oui
+175,21,Femme,Famille,1.0,3.3,7,19,9,Non
+176,30,Femme,RÃ©sidence Ã©tudiante,0.1,8.3,6,5,12,Non
+177,24,Femme,Colocation,2.1,3.1,6,9,5,Oui
+178,28,Homme,Famille,4.7,9.9,5,20,11,Non
+179,20,Femme,Colocation,6.4,9.9,6,9,8,Non
+180,23,Femme,Famille,2.1,5.2,9,12,12,Oui
+181,29,Femme,Seul,4.6,6.7,10,16,3,Oui
+182,19,Femme,Seul,2.4,5.9,9,8,10,Non
+183,27,Femme,Seul,0.5,7.8,10,16,19,Non
+184,30,Homme,RÃ©sidence Ã©tudiante,4.1,8.5,8,8,17,Oui
+185,26,Homme,Colocation,3.4,6.5,10,8,10,Non
+186,22,Homme,RÃ©sidence Ã©tudiante,5.7,6.9,9,0,20,Non
+187,23,Homme,Seul,0.7,4.8,10,1,3,Non
+188,29,Homme,Colocation,7.2,6.9,8,15,17,Non
+189,29,Femme,Seul,5.4,6.3,8,0,0,Non
+190,29,Homme,RÃ©sidence Ã©tudiante,3.0,4.2,1,9,6,Non
+191,29,Femme,RÃ©sidence Ã©tudiante,2.6,6.0,10,17,5,Non
+192,21,Homme,RÃ©sidence Ã©tudiante,1.9,5.2,5,7,14,Non
+193,28,Femme,Seul,3.2,4.8,4,20,17,Non
+194,27,Homme,Colocation,2.7,3.7,2,10,10,Non
+195,24,Homme,Colocation,3.8,6.1,8,1,19,Oui
+196,29,Femme,Seul,2.6,4.4,3,7,14,Non
+197,26,Femme,Colocation,5.1,5.1,4,7,15,Non
+198,24,Homme,Seul,3.2,8.2,7,16,6,Oui
+199,18,Femme,Colocation,2.6,7.3,10,14,20,Non
+200,18,Homme,Famille,4.5,4.0,9,16,9,Non
+201,26,Homme,Famille,0.6,6.7,2,12,11,Oui
+202,28,Autre,RÃ©sidence Ã©tudiante,3.5,6.3,3,18,13,Non
+203,26,Femme,Famille,3.0,9.4,4,4,4,Oui
+204,21,Homme,Famille,0.9,8.8,10,11,20,Oui
+205,30,Femme,Famille,0.4,2.9,1,0,17,Non
+206,26,Femme,Seul,4.5,7.7,7,4,4,Oui
+207,20,Femme,Famille,4.4,8.5,2,7,2,Non
+208,24,Homme,Famille,3.3,7.1,5,12,4,Non
+209,23,Homme,RÃ©sidence Ã©tudiante,5.6,5.3,1,7,16,Non
+210,25,Femme,Famille,3.7,10.8,3,10,18,Non
+211,28,Femme,Famille,4.9,7.3,2,0,18,Oui
+212,26,Femme,Colocation,3.6,10.0,1,12,20,Non
+213,22,Homme,RÃ©sidence Ã©tudiante,2.6,8.7,7,18,11,Oui
+214,18,Femme,RÃ©sidence Ã©tudiante,1.4,6.9,5,2,8,Non
+215,20,Femme,RÃ©sidence Ã©tudiante,2.1,4.8,1,16,0,Non
+216,27,Homme,RÃ©sidence Ã©tudiante,2.6,6.0,6,4,17,Oui
+217,29,Homme,RÃ©sidence Ã©tudiante,5.0,5.6,5,19,20,Non
+218,25,Femme,RÃ©sidence Ã©tudiante,4.2,3.6,3,20,3,Non
+219,28,Femme,Seul,3.5,7.3,7,7,9,Non
+220,23,Homme,Famille,4.3,9.1,10,13,6,Non
+221,25,Homme,RÃ©sidence Ã©tudiante,3.8,5.4,9,3,0,Oui
+222,26,Homme,Famille,3.4,10.3,9,10,16,Non
+223,21,Homme,Famille,0.8,2.9,9,19,1,Oui
+224,18,Autre,Seul,4.7,8.1,2,14,10,Non
+225,18,Femme,RÃ©sidence Ã©tudiante,2.3,9.3,3,18,8,Non
+226,27,Homme,Colocation,4.6,5.6,7,6,6,Non
+227,21,Autre,Seul,4.8,5.6,5,18,16,Non
+228,29,Femme,Colocation,2.0,8.1,2,18,16,Oui
+229,24,Femme,Famille,4.4,7.0,3,10,1,Non
+230,19,Femme,Famille,2.5,2.0,10,4,5,Non
+231,20,Homme,Seul,2.5,4.3,6,4,13,Oui
+232,18,Homme,Seul,3.4,6.0,7,7,5,Non
+233,22,Femme,Colocation,3.4,3.3,9,9,1,Oui
+234,18,Femme,RÃ©sidence Ã©tudiante,3.1,5.1,1,5,0,Non
+235,25,Homme,Colocation,1.0,3.3,7,14,9,Non
+236,18,Femme,Seul,2.8,5.3,8,15,20,Non
+237,28,Femme,Colocation,6.4,5.3,3,16,4,Oui
+238,18,Homme,Seul,0.0,6.7,4,7,1,Non
+239,19,Femme,Colocation,4.3,5.8,10,7,15,Non
+240,19,Autre,Seul,4.6,7.0,6,8,1,Non
+241,29,Autre,Seul,1.0,6.8,10,1,9,Non
+242,23,Homme,Seul,2.3,8.1,7,14,1,Non
+243,24,Femme,RÃ©sidence Ã©tudiante,1.5,7.7,4,17,15,Non
+244,22,Femme,Colocation,5.8,7.5,8,2,15,Non
+245,18,Femme,Colocation,4.7,12.2,5,16,18,Non
+246,18,Autre,Colocation,4.7,6.7,1,3,6,Non
+247,20,Femme,Seul,3.2,11.2,4,3,11,Non
+248,19,Femme,Colocation,5.0,6.8,3,13,14,Non
+249,22,Femme,Colocation,3.0,5.8,9,8,7,Non
+250,29,Femme,Seul,5.0,5.3,8,8,5,Oui
+251,27,Homme,Famille,2.8,9.0,1,17,9,Oui
+252,23,Homme,Seul,2.0,9.3,6,9,2,Oui
+253,24,Homme,Colocation,5.7,7.2,9,20,18,Oui
+254,21,Femme,Seul,3.0,8.3,7,3,16,Non
+255,24,Homme,Famille,1.7,3.4,4,11,6,Non
+256,28,Femme,Seul,1.6,2.9,1,7,20,Non
+257,25,Homme,Colocation,1.6,8.5,2,1,19,Non
+258,28,Femme,Famille,4.3,5.7,5,12,3,Non
+259,18,Femme,RÃ©sidence Ã©tudiante,2.9,7.5,5,20,13,Non
+260,23,Femme,Colocation,6.4,4.6,8,15,19,Non
+261,25,Homme,Famille,4.8,9.3,6,1,14,Non
+262,22,Femme,Famille,3.4,2.9,8,10,7,Non
+263,21,Femme,RÃ©sidence Ã©tudiante,5.1,3.2,2,9,20,Oui
+264,19,Homme,Seul,2.3,8.9,3,14,14,Non
+265,23,Femme,Seul,0.2,0.8,6,16,19,Non
+266,23,Femme,Colocation,1.5,6.8,10,7,13,Non
+267,28,Homme,RÃ©sidence Ã©tudiante,3.2,5.8,3,17,8,Oui
+268,18,Femme,Seul,2.7,4.5,6,8,7,Non
+269,26,Homme,RÃ©sidence Ã©tudiante,4.2,5.6,6,7,16,Non
+270,29,Homme,Seul,2.8,4.3,2,13,1,Oui
+271,28,Homme,Famille,4.1,9.1,7,17,2,Non
+272,23,Homme,Seul,5.3,9.6,2,19,7,Non
+273,30,Homme,RÃ©sidence Ã©tudiante,2.8,4.6,6,19,11,Non
+274,20,Femme,Famille,3.8,6.6,1,20,0,Oui
+275,21,Femme,Famille,0.4,3.3,3,11,9,Non
+276,29,Femme,Famille,2.8,8.1,2,18,19,Non
+277,28,Femme,RÃ©sidence Ã©tudiante,1.2,8.1,7,13,2,Non
+278,21,Femme,Colocation,3.2,5.4,4,16,5,Oui
+279,20,Femme,Colocation,3.4,6.0,8,20,6,Non
+280,27,Homme,Colocation,3.3,5.8,6,2,19,Non
+281,20,Homme,RÃ©sidence Ã©tudiante,2.3,2.8,10,6,17,Non
+282,20,Femme,Famille,6.4,9.1,4,16,10,Non
+283,21,Homme,Colocation,1.1,4.5,5,11,18,Oui
+284,24,Femme,RÃ©sidence Ã©tudiante,1.0,4.5,9,8,4,Non
+285,21,Homme,Colocation,5.5,5.7,7,14,18,Oui
+286,26,Femme,Seul,1.9,8.0,10,17,10,Non
+287,18,Autre,Colocation,1.6,4.8,9,20,11,Oui
+288,25,Femme,Colocation,6.5,2.1,7,12,9,Non
+289,24,Homme,Famille,4.5,4.2,1,20,7,Non
+290,19,Homme,RÃ©sidence Ã©tudiante,2.1,6.8,8,7,8,Non
+291,25,Femme,Famille,3.3,10.4,4,13,3,Oui
+292,18,Femme,Famille,5.9,3.5,3,7,4,Non
+293,28,Homme,Famille,4.0,3.4,7,13,20,Oui
+294,29,Femme,Famille,4.9,3.0,3,6,7,Non
+295,26,Homme,Famille,4.2,2.7,8,11,8,Non
+296,26,Homme,Colocation,4.4,8.4,6,10,14,Non
+297,19,Homme,Famille,3.1,9.0,5,10,14,Non
+298,24,Homme,Famille,3.0,6.4,4,12,15,Non
+299,27,Autre,RÃ©sidence Ã©tudiante,3.4,5.1,8,17,13,Oui
+300,20,Femme,Seul,4.1,9.6,8,1,7,Non
