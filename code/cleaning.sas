@@ -3,7 +3,7 @@
 /* Projet personnel : Santé mentale des étudiants en France                  */
 /* Objectif : Importer le fichier CSV, nettoyer les données, créer des      */
 /*            variables dérivées utiles pour l'analyse et la modélisation.  */
-/* Auteur : Amir EL HADRI – Juin 2025                                       */
+/* Auteur : Amir EL HADRI – Juin 2024                                       */
 /* ========================================================================= */
 
 libname projet "."; /* Création d'une bibliothèque de travail locale */
